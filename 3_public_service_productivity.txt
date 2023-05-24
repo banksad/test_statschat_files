@@ -1,0 +1,13 @@
+Main points
+
+    Quality-adjusted UK public service productivity fell by 15.2% in 2020, largely because of the effect of the coronavirus (COVID-19) pandemic, after a small decline in the previous year.
+
+    Total quality-adjusted output fell by 7.4% in 2020, as the pandemic caused a delay to some public service activities and changes to the delivery of others.
+
+    Total inputs grew by 9.2% in 2020, with additional resourcing required to respond to the pandemic.
+
+    Healthcare and education were the main contributors to the fall in productivity (down 23.0% and 26.1% respectively): healthcare output fell by 6.6%, while inputs rose considerably (21.2%); education output fell considerably (26.4%) because of the impact of remote learning and student absences, while inputs remained roughly steady (down 0.4%).
+
+Data
+
+Public service productivity data are here https://www.ons.gov.uk/releases/publicserviceproductivitytotaluk2020

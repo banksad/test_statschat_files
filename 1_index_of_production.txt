@@ -1,0 +1,19 @@
+Main points
+
+    Monthly production output is estimated to have fallen by 0.2% in February 2023; this follows a downwardly revised fall of 0.5% (from a fall of 0.3%) in January 2023.
+
+    The monthly decrease in output in February 2023 resulted from a decline in two of the four production sectors, with electricity and gas falling by 2.2%, and water supply and sewerage falling by 1.3%; this was partially offset by mining and quarrying, which rose by 3.0%.
+
+    The decline in monthly output in the electricity and gas sector was led by gas production and supply falling by 3.6%; this was partly caused by unseasonal higher than average temperatures during February 2023 reducing demand.
+
+    Monthly manufacturing output remained flat at 0.0% and saw 7 of its 13 sub-sectors negatively contributing to growth during February 2023; most notably, the manufacture of chemicals and chemical products contributed negative 0.11 percentage points to the Index of Production (IoP), with growth falling by 2.5%; this was offset by the largest positive contribution of 0.14 percentage points from manufacture of computer, electronic and optical products, with growth rising by 2.9%.
+
+    Monthly production output remained 0.7% below February 2020, the last month of "normal" trading conditions before the coronavirus (COVID-19) pandemic; of the main production sectors, mining and quarrying, electricity and gas, and manufacturing were below their February 2020 levels, by 18.0%, 0.8% and 0.1% respectively; in contrast, water supply and sewerage, was above its February 2020 level, at 9.7%.
+
+    Production output for the three months to February 2023 fell by 0.1% compared with the three months to November 2022, with a fall of 4.5% in mining and quarrying, partially offset by rises of 1.2% in water supply and sewerage, 0.7% in electricity and gas, and 0.1% in manufacturing.
+
+    Further analysis of the effect on our monthly IoP estimate is available in our Gross domestic product (GDP) monthly estimate, UK: February 2023 bulletin, published 13 April 2023.
+
+Data
+
+Data on manufacturing and production output are available here https://www.ons.gov.uk/economy/economicoutputandproductivity/output/bulletins/indexofproduction/february2023/relateddata

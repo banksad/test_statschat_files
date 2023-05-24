@@ -1,0 +1,91 @@
+Main points
+
+    More than a quarter (26%) of businesses reported their turnover was lower in April 2023 compared with the previous month, up from 19% in March 2023; in comparison 16% reported their turnover was higher in April 2023, down from 19% in March 2023.
+    When asked in early May 2023, more than one in five (21%) trading businesses expect turnover to increase in June 2023, up from 19% for expectations for May 2023.
+    More than a third (35%) of trading businesses reported an increase in the prices of goods or services bought in April 2023 compared with March 2023; down from 38% when comparing March with February 2023.
+    When looking ahead, 18% of trading businesses expect to raise the prices of goods or services they sell in June 2023, down from 23% for May 2023.
+    More than one in six (17%) trading businesses reported their overall performance increased in April 2023 compared with the same calendar month last year, down 2 percentage points from March 2023 compared with March 2022.
+
+Headline figures
+
+The data presented in this bulletin are the results from Wave 82 of the Business Insights and Conditions Survey (BICS), which was live from 2 to 14 May 2023.
+
+The data reported within BICS bulletins and datasets are estimates that are subject to uncertainty, such as sampling variability and non-sampling error. Further information on quality is available in our Business Insights and Conditions Survey Quality and Methodology Information (QMI) report, and we regularly update the confidence intervals associated with the survey questions.
+
+Experimental single-site weighted regional estimates up to Wave 74 are available in our Business insights and impact on the UK subnational single-site economy: February 2023 article.
+
+Please note that businesses were asked to exclude seasonal changes when answering questions contained within BICS.
+
+The percentage of businesses that reported they were trading was 95% in early May 2023, with 87% fully trading and 9% partially trading (for example, trading with reduced hours or staff numbers). Meanwhile, 3% of businesses reported "temporarily paused trading" and 2% "permanently ceased trading" as their business's trading status.
+
+Financial performance
+Turnover
+
+Trading businesses were asked how their turnover in April 2023 compared with March 2023, excluding any seasonality trading.
+
+The percentage of businesses currently trading who reported their turnover had decreased compared with the previous month is up 6 percentage points from the 19% reported in March 2023.
+
+The percentage of businesses that reported their turnover had increased in April 2023, compared with March 2023, was 16%, down 4 percentage points from March 2023. Businesses who reported their turnover had stayed the same was down 3 percentage points over the same period, to 50%.
+
+Turnover expectations
+
+Trading businesses were asked about their turnover expectations for June 2023, excluding any seasonality trading.
+
+More than one in five (21%) businesses expect their turnover to increase in June 2023, up from 19% for May 2023.
+
+In comparison, one in eight (12%) businesses expect their turnover to decrease in June 2023, while more than half (54%) expect their turnover to stay the same, broadly stable with expectations for May 2023.
+
+Prices
+Prices bought and sold
+
+Businesses not permanently stopped trading were asked how the prices of goods or services bought and/or sold by their business in April 2023 compared with the previous calendar month.
+
+The percentage of trading businesses reporting higher prices for goods or services bought in April 2023 compared with March 2023, was 35%, down 2 percentage points from those reporting higher costs in March 2023 compared with February 2023.
+
+Estimates suggest that a number of trading businesses continue to experience an increase each month in the prices of goods or services bought. However, this has steadily decreased since September 2022, and is the lowest percentage reported since the question was updated in March 2022.
+
+Price expectations
+
+Businesses not permanently stopped trading were asked what their expectations are for the prices of goods or services they sell in June 2023.
+
+When asked in early May 2023, more than one in six (18%) trading businesses expected to raise the prices of goods or services they sell in June 2023, down from 23% for May 2023. While the proportion of trading businesses that reported they expect prices will stay the same increased by 7 percentage points to 60% over the same period.
+
+Price rise reasons
+
+Businesses were asked what, if anything, was causing them to consider raising their prices in June 2023. Almost a third (31%) of trading businesses reported energy prices as the top reason for why they are considering doing so. In contrast, 38% reported they are not considering raising prices.
+
+Further details on price expectations broken down by trading status, industry and size band are available in our accompanying dataset.
+
+Impact of prices
+
+In early May 2023, businesses not permanently stopped trading were asked in which ways, if any, their business had been affected by any price rises they had experienced.
+
+Almost two-thirds (63%) of businesses reported they were affected by general increases in prices in one or more ways; 26% reported they had not been affected by price rises, and 11% were not sure.
+
+The most commonly reported impacts were:
+
+    had to absorb costs – 42%
+    had to pass on price increases to customers – 27%
+    had to change suppliers – 11%
+
+These were all broadly stable with early April 2023.
+
+Further response options broken down by industry and size band can be found in our accompanying dataset.
+
+Energy prices
+
+Figure 7: Recent increases in energy prices have affected production and/or suppliers for more than a third (34%) of businesses in early May 2023
+
+In early May 2023, 34% of businesses not permanently stopped trading reported their production and/or suppliers had been affected by the recent increases in energy prices, broadly stable since October 2022.
+
+Further details on the effects of energy price rises broken down by industry and size band are available in our accompanying dataset.
+
+Business confidence
+
+Businesses not permanently stopped trading were asked how they would describe their business's overall performance, such as pricing, trading and workforce, in April 2023 compared with April 2022.
+
+Figure 8: More than one in six (17%) trading businesses reported their overall performance for April 2023 increased compared with the same calendar month last year
+
+More than one in six (17%) trading businesses reported their overall performance for April 2023 increased compared with April 2022, this was higher at 27% for businesses with 10 or more employees.
+
+In comparison, when asked in early May 2023, more than a quarter (26%) of trading businesses reported they expect their overall performance to increase over the next 12 months, up 3 percentage points from early April 2023.

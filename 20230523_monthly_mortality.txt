@@ -1,0 +1,103 @@
+Main points
+
+    In April 2023, there were 41,966 deaths registered in England, 1,383 deaths (3.4%) above the April five-year average (2017 to 2019, 2021 and 2022); in Wales, there were 2,753 deaths registered, 7 deaths (0.3%) below the five-year average.
+
+    Accounting for the population size and age structure, the age-standardised mortality rates (ASMR) for April 2023 in both England (882.6 deaths per 100,000 people) and Wales (954.3 deaths per 100,000 people) were both significantly below the five-year average (3.7% and 6.1% below average, respectively).
+
+    Year-to-date (January to April 2023) deaths were above average in both England and Wales (7.2% and 6.7% above average, respectively); however, the year-to-date ASMR was similar to expected in both England (0.2% below average) and Wales (<0.1% above average).
+
+    The leading cause of death in England in April 2023 was dementia and Alzheimer's disease (11.2% of all deaths); in Wales, the joint leading causes of death were dementia and Alzheimer's disease, and ischaemic heart diseases (10.8% of all deaths each).
+
+    The leading cause of excess death in both England and Wales in April 2023 was symptoms, signs and ill-defined conditions, at 316 deaths (28.4%) and 24 deaths (37.8%) above average, respectively.
+
+Death registrations in April 2023
+
+In England, there were 41,966 deaths registered in April 2023, based on provisional data. This was 986 fewer deaths than in April 2022 and 1,383 (3.4%) more deaths than the five-year average (2017 to 2019, 2021 and 2022).
+
+In Wales, there were 2,753 deaths registered in April 2023. This was 142 fewer deaths than April 2022 and 7 (0.3%) fewer deaths than the five-year average.
+
+The five-year average for 2023 has been calculated using the years 2017 to 2019, 2021 and 2022. For more information, see our Understanding excess deaths during a pandemic blog and our How do we measure expected and excess deaths blog.
+
+Age-standardised mortality rates (ASMRs) are used for comparisons over time, rather than numbers of deaths, because ASMRs account for changes to the population size and age structure.
+
+Since the beginning of our data time series in 2001, mortality rates have generally been decreasing for the month of April.
+
+In April 2023, the ASMR for England was 882.6 deaths per 100,000 people. This was statistically significantly lower than the mortality rate for April 2022 (925.8 deaths per 100,000 people), and was significantly lower than all April mortality rates since 2017. The exception to this was April 2021, which was not significantly different (867.9 deaths per 100,000 people).
+
+In April 2023, the ASMR in Wales was 954.3 deaths per 100,000 people. This was not significantly different from the mortality rate for April 2022 (1,022.0 deaths per 100,000 people) or April 2021 (937.2 deaths per 100,000 people). Excluding these years, and similarly to England, this was significantly lower than all mortality rates for April since 2017.
+
+The mortality rate in April has consistently been significantly higher for males than females since the beginning of our time series in 2001. For more information on the differences between male and female ASMRs, see our accompanying dataset.
+
+Deaths registered in the year to date 
+
+There were 202,461 deaths registered in England and 13,339 in Wales during the first four months (January to April) of 2023.
+
+To gain a better idea of year-to-year differences in mortality rates, we calculated a year-to-date ASMR based on deaths registered in January to April of each year, from 2001 to 2023 (Figure 2).
+
+For England, the year-to-date ASMR for 2023 (1,067.0 deaths per 100,000 people) was statistically significantly lower than most (15 of the 22) years since our data time series started in 2001.
+
+For Wales, the ASMR for 2023 (1,153.8 deaths per 100,000 people) was also statistically significantly lower than most (14 of the 22) years since our data time series began.
+
+Excess mortality in England and Wales
+
+Excess deaths in this bulletin are the difference between the observed deaths within a period compared with the five-year average (2017 to 2019, 2021 and 2022) for the same period. This section compares excess mortality by number of deaths with excess mortality by age-standardised mortality rate (ASMR).
+
+In the month of April 2023, excess mortality rates have remained proportionally lower than excess deaths in England (Figure 3) and in Wales (Figure 4). This was the case regardless of whether deaths or ASMRs were below or above average.
+
+Because ASMRs take into account the population size and age structure at a given period, it is not unusual for proportional excess mortality rates to be lower than excess deaths. This is because while deaths may be higher than we would expect, they may not be higher when relative to the population. For example, if the population was larger in the observed period than the average population of the years making up the five-year average, then the deaths per 100,000 people could be lower.
+
+There are different ways of measuring excess mortality. These numbers will differ from those published elsewhere that use a different method, such as the Office for Health Improvement and Disparities' (OHID) excess deaths measure. This is because the figures in this bulletin are based on the average of five years, whereas the OHID measure looks at the trend seen between 2015 and 2019, as well as accounting for population, deprivation and ethnicity. We are now investigating different ways to calculate the expected number of deaths used in excess death calculations. The background to this work and information on how to get in contact can be found in our How we measure expected and excess deaths blog.
+
+In England in April 2023, the number of deaths was 3.4% (1,383 deaths) above what we would expect using the five-year average. The mortality rate for April 2023 was statistically significantly lower than average (882.6 and 916.6 deaths per 100,000 people, respectively), at 3.7% below the expected rate. This is lower than April 2022 for both excess deaths (5.4% above average) and mortality rates (1.5% below average).
+
+The number of deaths registered in the year to date of 2023 (January to April) was 7.2% above average, whereas the equivalent year-to-date value in 2022 was 3.0% below expected. The 2023 year-to-date ASMR was 0.2% below the five-year average, which was not significantly different (1,067.0 and 1,068.8 deaths per 100,000 people, respectively). Whereas the equivalent year-to-date ASMR in 2022 was significantly lower than average (986.5 and 1,082.9 deaths per 100,000 people, respectively), at 8.9% below expected.
+
+In Wales in April 2023, the number of deaths was 0.3% below the five-year average. The ASMR was significantly lower than average (954.3 and 1,015.8 deaths per 100,000 people, respectively), at 6.1% lower than expected. This is a lower proportion than that of April 2022 for both excess deaths (4.1% above average) and mortality rates (1.9% below average).
+
+The number of deaths registered in the year to date of 2023 was 6.7% above average in Wales, whereas the equivalent year to date in 2022 was 3.3% below the five-year average. The 2023 year-to-date ASMR was 0.2 deaths per 100,000 people greater than the five-year average (1,153.6 and 1,153.8 deaths per 100,000 people, respectively), a proportional difference of 0.0%. Whereas the equivalent year to date in 2022 was significantly lower than average (1,075.9 and 1,172.1 deaths per 100,000 people, respectively), at 8.2% below expected.
+
+Leading causes of death
+
+The doctor certifying a death can list all causes in the chain of events that led to the death, and the pre-existing conditions that may have contributed to the death. Using this information, we determine an underlying cause of death. More information on this process can be found in our User guide to mortality statistics methodology.
+
+The 10 most common underlying causes of death registered in April 2023, compared with the five-year average for April (2017 to 2019, 2021 and 2022), for England and Wales, respectively, are shown in Figures 5 and 6. Causes of death are based on our leading causes of death groupings.
+
+In England, dementia and Alzheimer's disease remained the leading cause of death in April 2023 (for the 22nd consecutive month), with 97.6 deaths per 100,000 people (4,700 deaths).
+
+The 10 leading causes of death in April 2023 are also the leading causes of death in the year to date (January to April 2023). The ordering is generally similar, except for deaths due to influenza and pneumonia, which is ranked fourth in the year to date compared with ranking sixth in April 2023, because of the high number of deaths due to this cause in January and February.
+
+In Wales, dementia and Alzheimer's disease remained the leading cause of death in April 2023 for the second consecutive month, with 101.1 deaths per 100,000 people (296 deaths). Ischaemic heart diseases was also the joint leading cause of death, with 101.8 deaths per 100,000 people (296 deaths). Despite the two causes having the same number of deaths, the age-standardised mortality rate differs slightly. This is because of the different age structures of the deaths.
+
+Since July 2020, when this analysis began, these causes of death have rotated in and out of the top ranking for Wales. Following the second wave of the coronavirus (COVID-19) pandemic, ischaemic heart diseases were the leading cause of death in Wales for 15 of the 17 months between March 2021 and July 2022. Dementia and Alzheimer's disease was then the leading cause of death in Wales for eight of the past nine months, including this month. Further analysis is needed to understand the fluctuations in these leading cause of death groupings in Wales.
+
+Of the 10 leading causes of death in April 2023, nine were also the leading causes of death in the year to date (January to April 2023). Cirrhosis and other diseases of the liver is ranked eleventh in the year to date (compared with tenth in April), whereas heart failure and complications and ill-defined heart disease is ranked tenth (eleventh in April).
+
+Most leading causes in the year to date are in a different rank than April 2023, except for ischaemic heart diseases (ranked first), chronic lower respiratory diseases (ranked third), and symptoms, signs and ill-defined conditions (ranked seventh).
+
+More information on leading causes of death is available in Table 12 for England, and Table 13 for Wales, in our accompanying dataset. More in-depth analysis of leading causes of death is available in our annual Deaths registered in England and Wales: 2021 bulletin, based on finalised mortality data.
+
+Coronavirus (COVID-19) mortality
+!
+
+We use the term "due to" when referring only to deaths where COVID-19 was the underlying cause of death. We use the term "involving" when referring to deaths that had COVID-19 mentioned anywhere on the death certificate, whether as an underlying cause or not.
+
+The first deaths involving COVID-19 were registered in England and Wales in March 2020. Since then, COVID-19 was the underlying cause in most deaths that involved COVID-19 (83.7% in England, 82.7% in Wales).
+
+In England, COVID-19 remained the eighth leading cause of death in April 2023 for the fourth consecutive month, at 26.3 deaths per 100,000 people (1,260 deaths), accounting for 3.0% of all deaths. This was statistically significantly lower than the mortality rate for deaths due to COVID-19 in March 2023, at 34.3 deaths per 100,000 people (1,698 deaths; 3.3% of all deaths).
+
+In Wales, COVID-19 decreased to the ninth leading cause of death in April 2023 (from eighth in March 2023), at 23.8 deaths per 100,000 (71 deaths), accounting for 2.6% of all deaths. This was not significantly different than the mortality rate for deaths due to COVID-19 in March 2023, at 34.0 deaths per 100,000 people (103 deaths, 3.0% of all deaths).
+
+For more information on our definition of coronavirus (COVID-19) deaths, see Section 10: Measuring the data.
+
+
+
+
+
+
+
+
+
+
+
+
+

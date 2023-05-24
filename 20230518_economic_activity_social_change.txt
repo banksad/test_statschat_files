@@ -1,0 +1,164 @@
+Main points
+
+    Consumer behaviour indicators have shown a decrease in activity in the latest week, coinciding with the coronation of King Charles III and Camilla, Her Majesty the Queen, with notable falls in spending; this was potentially driven by usual within month spending patterns, while there was a fall in overall UK retail footfall when compared with the previous week (Revolut, Bank of England CHAPS data, Springboard). Section 3: Consumer behaviour.
+
+    In April 2023, the average proportion of gross income spent on new rental agreements in the UK was 26.5%, which is 1.5 percentage points higher than the proportion in April 2019; while the proportion of income spent on new rental tenancies has increased since 2019, it has been relatively stable over the past two years (Dataloft). Section 4: Energy and housing.
+
+    The System Average Price (SAP) of gas fell in the week to 14 May 2023 by 3%, while the System Price of electricity rose by 10% when compared with the previous week; the latest SAP of gas and System Price of electricity are both below the peak observed in late August 2022, at 83% and 80% lower, respectively (National Gas Transmission, Elexon). Section 4: Energy and housing.
+
+    18% of trading businesses expect to raise the prices of goods or services they sell when looking ahead to June 2023, down from 23% for May 2023 (final results from Wave 82 of the Business Insights and Conditions Survey (BICS)).
+
+    A net 1% of firms in April 2023 reported increased turnover on the previous month after seasonal adjustment; meanwhile, the total number of online job adverts increased by 2% on 12 May 2023 compared with the previous week, but was 15% lower than the equivalent period of 2022 (HM Revenue and Customs Value Added Tax (VAT) returns, Adzuna). Section 5: Business and workforce.
+
+    Road traffic on Monday 8 May 2023, which was the bank holiday for the coronation, was 5 percentage points below the level on the previous Monday and 25 percentage points below the equivalent day last year (Department for Transport). Section 6: Transport.
+
+Consumer behaviour
+
+In the latest week, consumer behaviour activity is likely to have been affected by usual within month spending patterns and the bank holiday for the coronation of King Charles III and Camilla, Her Majesty the Queen.
+
+UK spending on debit and credit cards: daily CHAPS-based indicator
+
+These data series are experimental real-time indicators for estimating UK spending on credit and debit cards. They track the daily CHAPS payments made by credit and debit card payment processors to around 100 major UK retail corporates. These payments are the proceeds of recent credit and debit card transactions made by customers at their stores, both via physical and online platforms. More information on the indicator is provided in the accompanying  Guide to the Bank of England's UK spending on credit and debit cards experimental data series.
+
+Companies are allocated to one of four categories based on their primary business:  
+
+    "staples" refers to companies that sell essential goods that households need to purchase, such as food and utilities
+
+    "work-related" refers to companies providing public transport or selling petrol
+
+    "delayable" refers to companies selling goods whose purchase could be delayed, such as clothing or furnishings
+
+    "social" refers to spending on travel and eating out
+
+Figure 1 shows changes in the value of CHAPS payments received by large UK corporates from their credit and debit card processors, "merchant acquirers." 
+
+The spending categories recorded the following changes in the latest week:
+
+    "work-related" decreased by 13 points
+
+    "staple" decreased by 12 points
+
+    "delayable" decreased by 10 points
+
+    "social" decreased by 7 points
+
+When compared with the same week in 2022, the spending categories recorded the following changes:
+
+    "staple" increased by 13 points
+
+    "social" decreased by 1 point
+
+    "work-related" decreased by 4 points
+
+    "delayable" decreased by 7 points
+
+UK spending on debit and credit cards: monthly CHAPS-based indicator
+
+The monthly data time series is available in our accompanying UK spending on credit and debit cards dataset and includes methodological notes that users should bear in mind. The monthly CHAPS index is calculated by the Office for National Statistics (ONS), rather than being an additional series that is produced and validated by the Bank of England.
+
+The monthly CHAPS-based indicator of aggregate credit and debit card spending in April 2023 was unchanged from March 2023, having initially trended upwards since the start of the year, in line with usual seasonal patterns. Levels of expenditure changed in two spending categories in the latest month, with "delayable" increasing by 3 percentage points and "social" decreasing by three percentage points compared with March 2023. The categories "staple" and "work-related" remained unchanged compared with March 2023.
+
+The monthly indicator in April 2023 was 1 percentage point higher than in April 2022. Of the spending categories, two increased, one decreased and one remained unchanged. "Staple" and "work-related" both saw an increase, at 12 and 4 percentage points, respectively. "Delayable" decreased by 9 percentage points and "social" remained unchanged compared with April 2022. "Delayable" spending was also the only category to be below the pre-coronavirus (COVID-19) baseline, at 22 percentage points below.
+
+The monthly CHAPS-based aggregate index can provide an indication of the direction of retail sales data, having followed similar trends since the CHAPS index was established in January 2020. The Office for National Statistics (ONS) publishes retail sales data around the middle of each month, approximately two weeks after the monthly CHAPS index is published in this bulletin.
+
+Revolut spending on debit cards
+
+In the week to 14 May 2023, Revolut debit card spending decreased by 10 percentage points compared with the previous week but was 17 percentage points higher than the equivalent period last year.
+
+When compared with the previous week, five of the six categories saw decreases in debit card spending. The biggest decreases were in the "retail" and "pubs, restaurants, and fast food" categories, decreasing 16 and 10 percentage points, respectively. Entertainment was the only category to see an increase, rising by 4 percentage points.
+
+Five of the six categories increased considerably compared with the equivalent period last year, with "food and drink" showing the largest year-on-year increase of 31 percentage points. The only category to be below the equivalent level of 2022 was "Travel and accommodation" which was 4 percentage point below. Our accompanying Revolut spending on debit cards dataset is available.
+
+Automotive fuel spending
+
+In the week to 7 May 2023, the estimated demand for fuel per transaction decreased by two percentage points from the level in the previous week. However, it was 16 percentage points above the level seen in the equivalent week of 2022.
+
+Average fuel prices in the week to 7 May 2023 decreased by two percentage points from the level in the previous week and were 46 percentage points below the level in the equivalent week of 2022. Our accompanying Automotive fuel spending dataset is available.
+
+National retail footfall
+
+National retail footfall figures are supplied by Springboard, a provider of data on customer activity. Overall retail footfall decreased in the week to 14 May 2023 to 96% of the level of the previous week but was 101% of the level in the equivalent week last year. Additionally, overall retail footfall remained lower than the equivalent week of 2019, at 87%. Since February 2020, overall retail footfall has been consistently lower than the equivalent week of 2019. This is except for one week in late December 2022, which was likely because of Christmas shopping activity.
+
+Retail footfall fell in all three of the location categories when compared with the previous week. High street footfall had the largest decrease at 95% of the level of the previous week, with shopping centres falling to 97% and retail parks at 99%. However, shopping centres and retail parks saw increased footfall compared with the level of the equivalent week of 2022, at 103% and 101%, respectively. High street footfall was unchanged.
+
+Of the 12 English regions and UK countries, overall retail footfall decreased in 11 and remained unchanged in one compared with the previous week. The largest decreases occurred in London, Yorkshire and The Humber, the North East of England and the East Midlands, each at 95% compared with the previous week. The only one that remained unchanged on the week was Scotland.
+
+Transactions at Pret A Manger
+
+In the week to 11 May 2023, the number of in-store transactions at Pret A Manger stores decreased in all location categories when compared with the previous week. The largest decreases were seen in regional towns and Yorkshire stores, which fell by 15 and 10 percentage points, respectively.
+
+Transactions at Pret A Manger decreased in seven and increased in three store location categories when compared with the equivalent period of 2022. The largest decreases were in Manchester and London suburban stores, at 10 percentage points each. The largest increase was seen in London airports, with an increase of 34 percentage points when compared with the equivalent period of 2022. Our accompanying Transactions at Pret A Manger dataset is available.
+
+Energy and housing
+Renter affordability for new tenancies
+
+Dataloft is a housing market economics consultancy that holds the UK's largest dataset of rents achieved and renter demographics. It covers around 30 to 40% of UK private rentals (based on Census 2021 estimates of private rental dwelling stock and assumptions of tenancy length).
+
+The ratio of new tenants' rent price to gross income provides an estimate of affordability (how much of new renters' income is spent on rent) for those who start new tenancies during the month (30,000 new tenancies and 50,000 new tenants per month). If the affordability ratio increases, it reflects worsening affordability.
+
+Income is defined as unadjusted person-level gross incomes stated by renters. These figures exclude guarantors, individuals with very low incomes who are likely to be supported by another income source (such as those on housing benefits or in full-time education) and very high incomes that could skew the results.
+
+These estimates are not comparable over time since they reflect affordability at snapshots in time. Caution is advised when inferring trends in the rental market.
+
+Users should note that these experimental data are not consistent and not comparable with Office for National Statistics (ONS) official statistics (see our Private rental affordability, England, Wales and Northern Ireland, 2021 bulletin and our Index of Private Housing Rental Prices, UK: March 2023 bulletin). This is because of differing methods and data coverage. For example, our official statistics produce estimates for the whole private rental sector stock (new lets and existing lets), whereas Dataloft's experimental estimates are for new lets only and are not representative of the whole stock.
+
+We intend to add further dimensions to this data source in the coming months, such as regional breakdowns and income deciles. We would value any feedback as we develop this indicator.
+
+In April 2023, the average proportion of gross income spent on rent in the UK was 26.5%, which was 0.4 percentage points higher than the proportion in April 2022 and 1.5 percentage points higher than the proportion in April 2019. Our accompanying Renter affordability for new tenancies dataset is available.
+System Price of electricity
+
+The System Price of electricity, made available by Elexon, is used to settle the difference between contracted generation or consumption of electricity, and actual generation or consumption, in each half-hour trading period in the Balancing Market. The Balancing Market is the mechanism used to balance supply and demand in Great Britain's electricity market.
+
+Companies are contracted to generate or consume a certain amount of electricity within each half hour (known as the Settlement Period). However, this may differ from the actual amount generated or consumed. Where companies have generated more or less than the amount of energy their customers consume, this difference is balanced by the UK's National Grid Transmission System, which buys or sells enough electricity to reconcile the difference. The System Price is designed to reflect the cost incurred by National Grid in doing this.
+
+More information about how prices are calculated is available on the Elexon website.
+
+We have taken a daily average of the half-hourly system prices and averaged them again over the preceding seven days to bring out the trends and smooth volatility.
+
+In the week to 14 May 2023, the System Price of electricity increased by 10% compared with the previous week. It was 11% higher than the equivalent period last year, which is the first time the price has been higher than the level in the equivalent period in 2022 since February 2023. However, this price is 77% lower than the level seen in mid-December 2022. Our accompanying System Price of electricity dataset is available.
+System Average Price (SAP) of gas
+
+This is the average price of all gas traded through the balancing market. Market participants post bids or offers for volumes of gas a day ahead and within-day trades. The SAP aggregates the trades conducted on the On-the-Day Commodity Market (OCM). This is the market that the National Gas Transmission use in their role as residual balancer. Other markets exist for wholesale gas trading in Great Britain.
+
+These data can be used to understand the general trend of gas prices within the UK. However, the data should be treated with caution, as these can be subject to extreme within-day trading prices and may skew actual traded prices. Additionally, while these prices reflect spot prices on the day, traders can opt for futures contracts where the buyer and the seller agree the market-determined price for gas for a future date. The daily SAP is used to determine the futures price and is therefore a useful indicator of supply constraints and demand pressures.
+
+In the week to 14 May 2023, the SAP of gas fell by 3% when compared with the previous week. The SAP of gas is 246% higher than the pre-coronavirus (COVID-19) baseline of February 2020. It is 34% higher than the equivalent period last year and 83% lower than the peak seen in August 2022. Our accompanying System Average Price of gas dataset is available.
+
+Value Added Tax flash estimates
+
+Turnover diffusion indices are an aggregate measure used to track whether most firms are reporting an increase or decrease in turnover in their Value Added Tax (VAT) returns. They are calculated as the percentage of firms with increasing turnover minus the percentage with decreasing turnover.
+
+These estimates have been weighted according to each industry's contribution to the economy. As services have the greatest contribution, they likewise have a greater contribution to the total index.
+
+The indices are constructed to lie between 1 and negative 1. So, an index of 0.05 means that 5% more firms reported an increase in turnover compared with the previous month than those reporting a decrease in turnover. Conversely, an index of negative 0.05 means that 5% more firms reported a decrease in turnover compared with the previous month.
+
+The data are seasonally adjusted. More information on the compilation and methodology of these estimates can be found in our Economic activity and social change in the UK, real-time indicators methodology.
+
+After seasonal adjustment, a net 1% of firms in April 2023 reported increased turnover on the previous month, which was unchanged from the net 1% who reported increased turnover in February and March 2023. Services was the only sector where the net percentage of firms reported an increase, at 2%. The net percentage of firms reporting a decrease was the largest in agriculture, at 11%, followed by construction at 2%, and production at 1%.
+
+Data for all available industries, including seasonally adjusted month-on-month estimates and non-seasonally adjusted month-on-month and month-on-year estimates, for turnover and expenditure, are available in our accompanying Value Added Tax (VAT) flash estimates dataset.
+
+Online job adverts
+
+These figures are experimental estimates of online job adverts provided by Adzuna, an online job search engine, by category and by UK country and English region. The number of job adverts over time is an indicator of the demand for labour. The Adzuna categories used do not correspond to Standard Industrial Classification (SIC) categories, so these values are not directly comparable with our Vacancy Survey.
+
+The total number of online job adverts increased by 2% on 12 May 2023 compared with the previous week. Despite the total number of job adverts trending downwards in the preceding month (January 2023), this has remained largely unchanged since. In the latest week, there were increases in 17 of the 28 categories, decreases in eight, and three remained unchanged. The "Travel and tourism" category saw the largest increase, rising by 12% in the latest week.
+
+The total number of online job adverts was 15% lower than the level seen in the equivalent period of 2022, with 24 of the 28 categories below their levels of a year ago. The largest decreases were seen in "human resources (HR) and recruitment" and "creative, design arts and media" with decreases of 52% and 46%, respectively.
+
+The number of online job adverts increased in 9 of the 12 UK countries and English regions compared with the previous week, with the largest increase in the East Midlands at 5%. However, compared with the equivalent period last year, the East midlands saw the largest decrease at 28%, followed by the East of England and London, both of which were 22% lower.
+
+Advanced notification of potential redundancies
+
+Calculated as a rolling four-week average, the number of potential redundancies reported in the week to 7 May 2023 was 24% above the level in the equivalent week of 2022. The number of employers proposing redundancies was 76% above the level in the equivalent week of 2022.
+
+Comparisons with the equivalent period a year ago help account for any seasonal impacts. Our accompanying Advanced notification of potential redundancies dataset is available.
+
+Road traffic for Great Britain
+
+Road traffic on Monday 8 May 2023, which was the bank holiday for the coronation of King Charles III and Camilla, Her Majesty the Queen, was 5 percentage points below the level on the previous Monday, which was the Early May bank holiday (1 May 2023). Overall traffic levels were 25 percentage points below the level on the equivalent day last year (Monday 9 May 2022).
+
+Car and light goods vehicles traffic fell by 5 percentage points on Monday 8 May 2023 compared with the previous Monday. This was unchanged for heavy goods vehicle traffic.
+
+Users should note that road traffic levels are indexed to the equivalent day of the week in early 2020, before the coronavirus (COVID-19) pandemic. Comparisons in the latest week are likely to be bank holiday effects rather than any other trend change. These statistics are provided by the Department for Transport (DfT).
